@@ -9,7 +9,7 @@
     <meta http-equiv="Content-Language" content="en">
     
     
-    <title>coursera-getting-and-cleaning-data-project/run_analysis.R at master · bgentry/coursera-getting-and-cleaning-data-project · GitHub</title>
+    <title>coursera-getting-and-cleaning-data/run_analysis.R at master · eriky/coursera-getting-and-cleaning-data · GitHub</title>
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-114.png">
@@ -18,8 +18,8 @@
     <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144.png">
     <meta property="fb:app_id" content="1401488693436528">
 
-      <meta content="@github" name="twitter:site" /><meta content="summary" name="twitter:card" /><meta content="bgentry/coursera-getting-and-cleaning-data-project" name="twitter:title" /><meta content="coursera-getting-and-cleaning-data-project - course project for Coursera &quot;Getting and Cleaning Data&quot;" name="twitter:description" /><meta content="https://avatars1.githubusercontent.com/u/114033?v=3&amp;s=400" name="twitter:image:src" />
-      <meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="https://avatars1.githubusercontent.com/u/114033?v=3&amp;s=400" property="og:image" /><meta content="bgentry/coursera-getting-and-cleaning-data-project" property="og:title" /><meta content="https://github.com/bgentry/coursera-getting-and-cleaning-data-project" property="og:url" /><meta content="coursera-getting-and-cleaning-data-project - course project for Coursera &quot;Getting and Cleaning Data&quot;" property="og:description" />
+      <meta content="@github" name="twitter:site" /><meta content="summary" name="twitter:card" /><meta content="eriky/coursera-getting-and-cleaning-data" name="twitter:title" /><meta content="Contribute to coursera-getting-and-cleaning-data development by creating an account on GitHub." name="twitter:description" /><meta content="https://avatars0.githubusercontent.com/u/839521?v=3&amp;s=400" name="twitter:image:src" />
+      <meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="https://avatars0.githubusercontent.com/u/839521?v=3&amp;s=400" property="og:image" /><meta content="eriky/coursera-getting-and-cleaning-data" property="og:title" /><meta content="https://github.com/eriky/coursera-getting-and-cleaning-data" property="og:url" /><meta content="Contribute to coursera-getting-and-cleaning-data development by creating an account on GitHub." property="og:description" />
       <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
     <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
     <link rel="assets" href="https://assets-cdn.github.com/">
@@ -33,7 +33,7 @@
 
         <meta name="google-analytics" content="UA-3769691-2">
 
-    <meta content="collector.githubapp.com" name="octolytics-host" /><meta content="collector-cdn.github.com" name="octolytics-script-host" /><meta content="github" name="octolytics-app-id" /><meta content="0C15F184:6D1B:8FA2075:5586DB08" name="octolytics-dimension-request_id" />
+    <meta content="collector.githubapp.com" name="octolytics-host" /><meta content="collector-cdn.github.com" name="octolytics-script-host" /><meta content="github" name="octolytics-app-id" /><meta content="0C15F184:6D12:2359106:5586DE23" name="octolytics-dimension-request_id" />
     
     <meta content="Rails, view, blob#show" name="analytics-event" />
     <meta class="js-ga-set" name="dimension1" content="Logged Out">
@@ -47,7 +47,7 @@
 
 
     <meta content="authenticity_token" name="csrf-param" />
-<meta content="a0mpyNhpTvCgm0O12l1roRGgjOAHxUe4gF3Owbx7EgeZaENzMAeiL3/137+7WWLTolUcMqBn6bMcKmOfgKbh2g==" name="csrf-token" />
+<meta content="qjMMtE8HjEF8yIFbLP94cu6AAQJYF1hoPxEl6wHgEVSOARdt3WUKMKH+x2P3hciPBsRdgZmT+0C4RNNhxRJ+4g==" name="csrf-token" />
 
     <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/github/index-805b1dc56a27171cceb8daae5c9e50c759789b9473bca4278a8145697ca3e05b.css" media="all" rel="stylesheet" />
     <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/github2/index-7f8f14b96da3b21f83e68e993b1c2a60d443d867b62bfe83c1cfd54249ce9913.css" media="all" rel="stylesheet" />
@@ -58,11 +58,11 @@
     <meta http-equiv="x-pjax-version" content="8faa43c6e2f704a4d27acb74601b9876">
 
       
-  <meta name="description" content="coursera-getting-and-cleaning-data-project - course project for Coursera &quot;Getting and Cleaning Data&quot;">
-  <meta name="go-import" content="github.com/bgentry/coursera-getting-and-cleaning-data-project git https://github.com/bgentry/coursera-getting-and-cleaning-data-project.git">
+  <meta name="description" content="Contribute to coursera-getting-and-cleaning-data development by creating an account on GitHub.">
+  <meta name="go-import" content="github.com/eriky/coursera-getting-and-cleaning-data git https://github.com/eriky/coursera-getting-and-cleaning-data.git">
 
-  <meta content="114033" name="octolytics-dimension-user_id" /><meta content="bgentry" name="octolytics-dimension-user_login" /><meta content="32694259" name="octolytics-dimension-repository_id" /><meta content="bgentry/coursera-getting-and-cleaning-data-project" name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="false" name="octolytics-dimension-repository_is_fork" /><meta content="32694259" name="octolytics-dimension-repository_network_root_id" /><meta content="bgentry/coursera-getting-and-cleaning-data-project" name="octolytics-dimension-repository_network_root_nwo" />
-  <link href="https://github.com/bgentry/coursera-getting-and-cleaning-data-project/commits/master.atom" rel="alternate" title="Recent Commits to coursera-getting-and-cleaning-data-project:master" type="application/atom+xml">
+  <meta content="839521" name="octolytics-dimension-user_id" /><meta content="eriky" name="octolytics-dimension-user_login" /><meta content="20034365" name="octolytics-dimension-repository_id" /><meta content="eriky/coursera-getting-and-cleaning-data" name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="false" name="octolytics-dimension-repository_is_fork" /><meta content="20034365" name="octolytics-dimension-repository_network_root_id" /><meta content="eriky/coursera-getting-and-cleaning-data" name="octolytics-dimension-repository_network_root_nwo" />
+  <link href="https://github.com/eriky/coursera-getting-and-cleaning-data/commits/master.atom" rel="alternate" title="Recent Commits to coursera-getting-and-cleaning-data:master" type="application/atom+xml">
 
   </head>
 
@@ -85,11 +85,11 @@
 
     <div class="header-actions" role="navigation">
         <a class="btn btn-primary" href="/join" data-ga-click="(Logged out) Header, clicked Sign up, text:sign-up">Sign up</a>
-      <a class="btn" href="/login?return_to=%2Fbgentry%2Fcoursera-getting-and-cleaning-data-project%2Fblob%2Fmaster%2Frun_analysis.R" data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">Sign in</a>
+      <a class="btn" href="/login?return_to=%2Feriky%2Fcoursera-getting-and-cleaning-data%2Fblob%2Fmaster%2Frun_analysis.R" data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">Sign in</a>
     </div>
 
     <div class="site-search repo-scope js-site-search" role="search">
-      <form accept-charset="UTF-8" action="/bgentry/coursera-getting-and-cleaning-data-project/search" class="js-site-search-form" data-global-search-url="/search" data-repo-search-url="/bgentry/coursera-getting-and-cleaning-data-project/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+      <form accept-charset="UTF-8" action="/eriky/coursera-getting-and-cleaning-data/search" class="js-site-search-form" data-global-search-url="/search" data-repo-search-url="/eriky/coursera-getting-and-cleaning-data/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
   <label class="js-chromeless-input-container form-control">
     <div class="scope-badge">This repository</div>
     <input type="text"
@@ -137,50 +137,50 @@
 <ul class="pagehead-actions">
 
   <li>
-      <a href="/login?return_to=%2Fbgentry%2Fcoursera-getting-and-cleaning-data-project"
+      <a href="/login?return_to=%2Feriky%2Fcoursera-getting-and-cleaning-data"
     class="btn btn-sm btn-with-count tooltipped tooltipped-n"
     aria-label="You must be signed in to watch a repository" rel="nofollow">
     <span class="octicon octicon-eye"></span>
     Watch
   </a>
-  <a class="social-count" href="/bgentry/coursera-getting-and-cleaning-data-project/watchers">
-    0
+  <a class="social-count" href="/eriky/coursera-getting-and-cleaning-data/watchers">
+    2
   </a>
 
   </li>
 
   <li>
-      <a href="/login?return_to=%2Fbgentry%2Fcoursera-getting-and-cleaning-data-project"
+      <a href="/login?return_to=%2Feriky%2Fcoursera-getting-and-cleaning-data"
     class="btn btn-sm btn-with-count tooltipped tooltipped-n"
     aria-label="You must be signed in to star a repository" rel="nofollow">
     <span class="octicon octicon-star"></span>
     Star
   </a>
 
-    <a class="social-count js-social-count" href="/bgentry/coursera-getting-and-cleaning-data-project/stargazers">
-      0
+    <a class="social-count js-social-count" href="/eriky/coursera-getting-and-cleaning-data/stargazers">
+      2
     </a>
 
   </li>
 
     <li>
-      <a href="/login?return_to=%2Fbgentry%2Fcoursera-getting-and-cleaning-data-project"
+      <a href="/login?return_to=%2Feriky%2Fcoursera-getting-and-cleaning-data"
         class="btn btn-sm btn-with-count tooltipped tooltipped-n"
         aria-label="You must be signed in to fork a repository" rel="nofollow">
         <span class="octicon octicon-repo-forked"></span>
         Fork
       </a>
-      <a href="/bgentry/coursera-getting-and-cleaning-data-project/network" class="social-count">
-        2
+      <a href="/eriky/coursera-getting-and-cleaning-data/network" class="social-count">
+        82
       </a>
     </li>
 </ul>
 
         <h1 itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="entry-title public">
           <span class="mega-octicon octicon-repo"></span>
-          <span class="author"><a href="/bgentry" class="url fn" itemprop="url" rel="author"><span itemprop="title">bgentry</span></a></span><!--
+          <span class="author"><a href="/eriky" class="url fn" itemprop="url" rel="author"><span itemprop="title">eriky</span></a></span><!--
        --><span class="path-divider">/</span><!--
-       --><strong><a href="/bgentry/coursera-getting-and-cleaning-data-project" data-pjax="#js-repo-pjax-container">coursera-getting-and-cleaning-data-project</a></strong>
+       --><strong><a href="/eriky/coursera-getting-and-cleaning-data" data-pjax="#js-repo-pjax-container">coursera-getting-and-cleaning-data</a></strong>
 
           <span class="page-context-loader">
             <img alt="" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
@@ -197,23 +197,23 @@
 <nav class="sunken-menu repo-nav js-repo-nav js-sidenav-container-pjax js-octicon-loaders"
      role="navigation"
      data-pjax="#js-repo-pjax-container"
-     data-issue-count-url="/bgentry/coursera-getting-and-cleaning-data-project/issues/counts">
+     data-issue-count-url="/eriky/coursera-getting-and-cleaning-data/issues/counts">
   <ul class="sunken-menu-group">
     <li class="tooltipped tooltipped-w" aria-label="Code">
-      <a href="/bgentry/coursera-getting-and-cleaning-data-project" aria-label="Code" class="selected js-selected-navigation-item sunken-menu-item" data-hotkey="g c" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches /bgentry/coursera-getting-and-cleaning-data-project">
+      <a href="/eriky/coursera-getting-and-cleaning-data" aria-label="Code" class="selected js-selected-navigation-item sunken-menu-item" data-hotkey="g c" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches /eriky/coursera-getting-and-cleaning-data">
         <span class="octicon octicon-code"></span> <span class="full-word">Code</span>
         <img alt="" class="mini-loader" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
 </a>    </li>
 
       <li class="tooltipped tooltipped-w" aria-label="Issues">
-        <a href="/bgentry/coursera-getting-and-cleaning-data-project/issues" aria-label="Issues" class="js-selected-navigation-item sunken-menu-item" data-hotkey="g i" data-selected-links="repo_issues repo_labels repo_milestones /bgentry/coursera-getting-and-cleaning-data-project/issues">
+        <a href="/eriky/coursera-getting-and-cleaning-data/issues" aria-label="Issues" class="js-selected-navigation-item sunken-menu-item" data-hotkey="g i" data-selected-links="repo_issues repo_labels repo_milestones /eriky/coursera-getting-and-cleaning-data/issues">
           <span class="octicon octicon-issue-opened"></span> <span class="full-word">Issues</span>
           <span class="js-issue-replace-counter"></span>
           <img alt="" class="mini-loader" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
 </a>      </li>
 
     <li class="tooltipped tooltipped-w" aria-label="Pull requests">
-      <a href="/bgentry/coursera-getting-and-cleaning-data-project/pulls" aria-label="Pull requests" class="js-selected-navigation-item sunken-menu-item" data-hotkey="g p" data-selected-links="repo_pulls /bgentry/coursera-getting-and-cleaning-data-project/pulls">
+      <a href="/eriky/coursera-getting-and-cleaning-data/pulls" aria-label="Pull requests" class="js-selected-navigation-item sunken-menu-item" data-hotkey="g p" data-selected-links="repo_pulls /eriky/coursera-getting-and-cleaning-data/pulls">
           <span class="octicon octicon-git-pull-request"></span> <span class="full-word">Pull requests</span>
           <span class="js-pull-replace-counter"></span>
           <img alt="" class="mini-loader" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
@@ -224,13 +224,13 @@
   <ul class="sunken-menu-group">
 
     <li class="tooltipped tooltipped-w" aria-label="Pulse">
-      <a href="/bgentry/coursera-getting-and-cleaning-data-project/pulse" aria-label="Pulse" class="js-selected-navigation-item sunken-menu-item" data-selected-links="pulse /bgentry/coursera-getting-and-cleaning-data-project/pulse">
+      <a href="/eriky/coursera-getting-and-cleaning-data/pulse" aria-label="Pulse" class="js-selected-navigation-item sunken-menu-item" data-selected-links="pulse /eriky/coursera-getting-and-cleaning-data/pulse">
         <span class="octicon octicon-pulse"></span> <span class="full-word">Pulse</span>
         <img alt="" class="mini-loader" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
 </a>    </li>
 
     <li class="tooltipped tooltipped-w" aria-label="Graphs">
-      <a href="/bgentry/coursera-getting-and-cleaning-data-project/graphs" aria-label="Graphs" class="js-selected-navigation-item sunken-menu-item" data-selected-links="repo_graphs repo_contributors /bgentry/coursera-getting-and-cleaning-data-project/graphs">
+      <a href="/eriky/coursera-getting-and-cleaning-data/graphs" aria-label="Graphs" class="js-selected-navigation-item sunken-menu-item" data-selected-links="repo_graphs repo_contributors /eriky/coursera-getting-and-cleaning-data/graphs">
         <span class="octicon octicon-graph"></span> <span class="full-word">Graphs</span>
         <img alt="" class="mini-loader" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
 </a>    </li>
@@ -246,7 +246,7 @@
   <h3><span class="text-emphasized">HTTPS</span> clone URL</h3>
   <div class="input-group js-zeroclipboard-container">
     <input type="text" class="input-mini input-monospace js-url-field js-zeroclipboard-target"
-           value="https://github.com/bgentry/coursera-getting-and-cleaning-data-project.git" readonly="readonly">
+           value="https://github.com/eriky/coursera-getting-and-cleaning-data.git" readonly="readonly">
     <span class="input-group-button">
       <button aria-label="Copy to clipboard" class="js-zeroclipboard btn btn-sm zeroclipboard-button tooltipped tooltipped-s" data-copied-hint="Copied!" type="button"><span class="octicon octicon-clippy"></span></button>
     </span>
@@ -259,7 +259,7 @@
   <h3><span class="text-emphasized">Subversion</span> checkout URL</h3>
   <div class="input-group js-zeroclipboard-container">
     <input type="text" class="input-mini input-monospace js-url-field js-zeroclipboard-target"
-           value="https://github.com/bgentry/coursera-getting-and-cleaning-data-project" readonly="readonly">
+           value="https://github.com/eriky/coursera-getting-and-cleaning-data" readonly="readonly">
     <span class="input-group-button">
       <button aria-label="Copy to clipboard" class="js-zeroclipboard btn btn-sm zeroclipboard-button tooltipped tooltipped-s" data-copied-hint="Copied!" type="button"><span class="octicon octicon-clippy"></span></button>
     </span>
@@ -269,23 +269,23 @@
 
 
 <div class="clone-options">You can clone with
-  <form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=http&amp;protocol_type=clone" class="inline-form js-clone-selector-form " data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="U8o3u4I8LztpbjjYHWlpXFB9RSpKvcYqqku+dUmmJguOCate8WAgHvUj4z5rC1BENubD7oe2v8eV57W7cNaYIg==" /></div><button class="btn-link js-clone-selector" data-protocol="http" type="submit">HTTPS</button></form> or <form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=subversion&amp;protocol_type=clone" class="inline-form js-clone-selector-form " data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Wg/GCHN5H3I4M3Zpkh8mM2Geieuc3tlvL+E7sejBw8rRw4RhSlzOGiqqqt9+vk2bALkU0tedvYx+j6t4UMwpUw==" /></div><button class="btn-link js-clone-selector" data-protocol="subversion" type="submit">Subversion</button></form>.
+  <form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=http&amp;protocol_type=clone" class="inline-form js-clone-selector-form " data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="6Ozs2MUivpXHU4eQZKukPSP/AUThZJn/iotArA45hZgITMqBQ9C7BL01XWU/xsjQMdrnoP6aSZscvO2BxPJHTg==" /></div><button class="btn-link js-clone-selector" data-protocol="http" type="submit">HTTPS</button></form> or <form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=subversion&amp;protocol_type=clone" class="inline-form js-clone-selector-form " data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="GNLO4U2KFW4/K76CJ53p0bnRc0jY6pHAmMuopqZrkehu+Ia+ZqbJI8RAJ/2UzFPCnQm83ejqA12T7dhT2BNK3g==" /></div><button class="btn-link js-clone-selector" data-protocol="subversion" type="submit">Subversion</button></form>.
   <a href="https://help.github.com/articles/which-remote-url-should-i-use" class="help tooltipped tooltipped-n" aria-label="Get help on which URL is right for you.">
     <span class="octicon octicon-question"></span>
   </a>
 </div>
 
 
-  <a href="https://windows.github.com" class="btn btn-sm sidebar-button" title="Save bgentry/coursera-getting-and-cleaning-data-project to your computer and use it in GitHub Desktop." aria-label="Save bgentry/coursera-getting-and-cleaning-data-project to your computer and use it in GitHub Desktop.">
+  <a href="https://windows.github.com" class="btn btn-sm sidebar-button" title="Save eriky/coursera-getting-and-cleaning-data to your computer and use it in GitHub Desktop." aria-label="Save eriky/coursera-getting-and-cleaning-data to your computer and use it in GitHub Desktop.">
     <span class="octicon octicon-device-desktop"></span>
     Clone in Desktop
   </a>
 
 
-                <a href="/bgentry/coursera-getting-and-cleaning-data-project/archive/master.zip"
+                <a href="/eriky/coursera-getting-and-cleaning-data/archive/master.zip"
                    class="btn btn-sm sidebar-button"
-                   aria-label="Download the contents of bgentry/coursera-getting-and-cleaning-data-project as a zip file"
-                   title="Download the contents of bgentry/coursera-getting-and-cleaning-data-project as a zip file"
+                   aria-label="Download the contents of eriky/coursera-getting-and-cleaning-data as a zip file"
+                   title="Download the contents of eriky/coursera-getting-and-cleaning-data as a zip file"
                    rel="nofollow">
                   <span class="octicon octicon-cloud-download"></span>
                   Download ZIP
@@ -297,9 +297,9 @@
 
           
 
-<a href="/bgentry/coursera-getting-and-cleaning-data-project/blob/f970ecbd764eaec92c220d8b28c55b44941fa2a6/run_analysis.R" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
+<a href="/eriky/coursera-getting-and-cleaning-data/blob/a7d65fdf4b737e131b8d3708ffde3c5c58308c01/run_analysis.R" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
-<!-- blob contrib key: blob_contributors:v21:0fb169839fdbc2cf35bc163b857a6c6c -->
+<!-- blob contrib key: blob_contributors:v21:f18a21aa2728238c7448fb5ded965fc6 -->
 
 <div class="file-navigation js-zeroclipboard-container">
   
@@ -343,7 +343,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open selected"
-               href="/bgentry/coursera-getting-and-cleaning-data-project/blob/master/run_analysis.R"
+               href="/eriky/coursera-getting-and-cleaning-data/blob/master/run_analysis.R"
                data-name="master"
                data-skip-pjax="true"
                rel="nofollow">
@@ -371,7 +371,7 @@
 </div>
 
   <div class="btn-group right">
-    <a href="/bgentry/coursera-getting-and-cleaning-data-project/find/master"
+    <a href="/eriky/coursera-getting-and-cleaning-data/find/master"
           class="js-show-file-finder btn btn-sm empty-icon tooltipped tooltipped-s"
           data-pjax
           data-hotkey="t"
@@ -382,18 +382,18 @@
   </div>
 
   <div class="breadcrumb js-zeroclipboard-target">
-    <span class="repo-root js-repo-root"><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/bgentry/coursera-getting-and-cleaning-data-project" class="" data-branch="master" data-pjax="true" itemscope="url"><span itemprop="title">coursera-getting-and-cleaning-data-project</span></a></span></span><span class="separator">/</span><strong class="final-path">run_analysis.R</strong>
+    <span class="repo-root js-repo-root"><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/eriky/coursera-getting-and-cleaning-data" class="" data-branch="master" data-pjax="true" itemscope="url"><span itemprop="title">coursera-getting-and-cleaning-data</span></a></span></span><span class="separator">/</span><strong class="final-path">run_analysis.R</strong>
   </div>
 </div>
 
 
   <div class="commit file-history-tease">
     <div class="file-history-tease-header">
-        <img alt="@bgentry" class="avatar" height="24" src="https://avatars0.githubusercontent.com/u/114033?v=3&amp;s=48" width="24" />
-        <span class="author"><a href="/bgentry" rel="author">bgentry</a></span>
-        <time datetime="2015-03-22T20:18:23Z" is="relative-time">Mar 22, 2015</time>
+        <img alt="@eriky" class="avatar" data-user="839521" height="24" src="https://avatars1.githubusercontent.com/u/839521?v=3&amp;s=48" width="24" />
+        <span class="author"><a href="/eriky" rel="author">eriky</a></span>
+        <time datetime="2014-05-23T09:18:54Z" is="relative-time">May 23, 2014</time>
         <div class="commit-title">
-            <a href="/bgentry/coursera-getting-and-cleaning-data-project/commit/12fc6cf71c9628ab9bcd38f608be6741ea845d3b" class="message" data-pjax="true" title="add course project analysis script">add course project analysis script</a>
+            <a href="/eriky/coursera-getting-and-cleaning-data/commit/a7d65fdf4b737e131b8d3708ffde3c5c58308c01" class="message" data-pjax="true" title="minor code style fix">minor code style fix</a>
         </div>
     </div>
 
@@ -410,8 +410,8 @@
       <h2 class="facebox-header">Users who have contributed to this file</h2>
       <ul class="facebox-user-list">
           <li class="facebox-user-list-item">
-            <img alt="@bgentry" height="24" src="https://avatars0.githubusercontent.com/u/114033?v=3&amp;s=48" width="24" />
-            <a href="/bgentry">bgentry</a>
+            <img alt="@eriky" data-user="839521" height="24" src="https://avatars1.githubusercontent.com/u/839521?v=3&amp;s=48" width="24" />
+            <a href="/eriky">eriky</a>
           </li>
       </ul>
     </div>
@@ -422,9 +422,9 @@
     <div class="file-actions">
 
       <div class="btn-group">
-        <a href="/bgentry/coursera-getting-and-cleaning-data-project/raw/master/run_analysis.R" class="btn btn-sm " id="raw-url">Raw</a>
-          <a href="/bgentry/coursera-getting-and-cleaning-data-project/blame/master/run_analysis.R" class="btn btn-sm js-update-url-with-hash">Blame</a>
-        <a href="/bgentry/coursera-getting-and-cleaning-data-project/commits/master/run_analysis.R" class="btn btn-sm " rel="nofollow">History</a>
+        <a href="/eriky/coursera-getting-and-cleaning-data/raw/master/run_analysis.R" class="btn btn-sm " id="raw-url">Raw</a>
+          <a href="/eriky/coursera-getting-and-cleaning-data/blame/master/run_analysis.R" class="btn btn-sm js-update-url-with-hash">Blame</a>
+        <a href="/eriky/coursera-getting-and-cleaning-data/commits/master/run_analysis.R" class="btn btn-sm " rel="nofollow">History</a>
       </div>
 
         <a class="octicon-btn tooltipped tooltipped-nw"
@@ -444,9 +444,9 @@
     </div>
 
     <div class="file-info">
-        50 lines (39 sloc)
+        46 lines (38 sloc)
         <span class="file-info-divider"></span>
-      2.026 kB
+      2.065 kB
     </div>
   </div>
   
@@ -454,158 +454,157 @@
       <table class="highlight tab-size js-file-line-container" data-tab-size="8">
       <tr>
         <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
-        <td id="LC1" class="blob-code blob-code-inner js-file-line">library(<span class="pl-smi">reshape2</span>)</td>
+        <td id="LC1" class="blob-code blob-code-inner js-file-line">setwd(<span class="pl-s"><span class="pl-pds">&quot;</span>~/datascience/3. Obtaining Data/Project/<span class="pl-pds">&quot;</span></span>)</td>
       </tr>
       <tr>
         <td id="L2" class="blob-num js-line-number" data-line-number="2"></td>
-        <td id="LC2" class="blob-code blob-code-inner js-file-line">
-</td>
+        <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class="pl-v">training</span> <span class="pl-k">=</span> read.csv(<span class="pl-s"><span class="pl-pds">&quot;</span>UCI HAR Dataset/train/X_train.txt<span class="pl-pds">&quot;</span></span>, <span class="pl-v">sep</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-pds">&quot;</span></span>, <span class="pl-v">header</span><span class="pl-k">=</span><span class="pl-c1">FALSE</span>)</td>
       </tr>
       <tr>
         <td id="L3" class="blob-num js-line-number" data-line-number="3"></td>
-        <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">filename</span> <span class="pl-k">&lt;-</span> <span class="pl-s"><span class="pl-pds">&quot;</span>getdata_dataset.zip<span class="pl-pds">&quot;</span></span></td>
+        <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">training</span>[,<span class="pl-c1">562</span>] <span class="pl-k">=</span> read.csv(<span class="pl-s"><span class="pl-pds">&quot;</span>UCI HAR Dataset/train/Y_train.txt<span class="pl-pds">&quot;</span></span>, <span class="pl-v">sep</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-pds">&quot;</span></span>, <span class="pl-v">header</span><span class="pl-k">=</span><span class="pl-c1">FALSE</span>)</td>
       </tr>
       <tr>
         <td id="L4" class="blob-num js-line-number" data-line-number="4"></td>
-        <td id="LC4" class="blob-code blob-code-inner js-file-line">
-</td>
+        <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">training</span>[,<span class="pl-c1">563</span>] <span class="pl-k">=</span> read.csv(<span class="pl-s"><span class="pl-pds">&quot;</span>UCI HAR Dataset/train/subject_train.txt<span class="pl-pds">&quot;</span></span>, <span class="pl-v">sep</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-pds">&quot;</span></span>, <span class="pl-v">header</span><span class="pl-k">=</span><span class="pl-c1">FALSE</span>)</td>
       </tr>
       <tr>
         <td id="L5" class="blob-num js-line-number" data-line-number="5"></td>
-        <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class="pl-c">## Download and unzip the dataset:</span></td>
+        <td id="LC5" class="blob-code blob-code-inner js-file-line">
+</td>
       </tr>
       <tr>
         <td id="L6" class="blob-num js-line-number" data-line-number="6"></td>
-        <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class="pl-k">if</span> (<span class="pl-k">!</span>file.exists(<span class="pl-smi">filename</span>)){</td>
+        <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class="pl-v">testing</span> <span class="pl-k">=</span> read.csv(<span class="pl-s"><span class="pl-pds">&quot;</span>UCI HAR Dataset/test/X_test.txt<span class="pl-pds">&quot;</span></span>, <span class="pl-v">sep</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-pds">&quot;</span></span>, <span class="pl-v">header</span><span class="pl-k">=</span><span class="pl-c1">FALSE</span>)</td>
       </tr>
       <tr>
         <td id="L7" class="blob-num js-line-number" data-line-number="7"></td>
-        <td id="LC7" class="blob-code blob-code-inner js-file-line">  <span class="pl-smi">fileURL</span> <span class="pl-k">&lt;-</span> <span class="pl-s"><span class="pl-pds">&quot;</span>https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip <span class="pl-pds">&quot;</span></span></td>
+        <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">testing</span>[,<span class="pl-c1">562</span>] <span class="pl-k">=</span> read.csv(<span class="pl-s"><span class="pl-pds">&quot;</span>UCI HAR Dataset/test/Y_test.txt<span class="pl-pds">&quot;</span></span>, <span class="pl-v">sep</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-pds">&quot;</span></span>, <span class="pl-v">header</span><span class="pl-k">=</span><span class="pl-c1">FALSE</span>)</td>
       </tr>
       <tr>
         <td id="L8" class="blob-num js-line-number" data-line-number="8"></td>
-        <td id="LC8" class="blob-code blob-code-inner js-file-line">  download.file(<span class="pl-smi">fileURL</span>, <span class="pl-smi">filename</span>, <span class="pl-v">method</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">&quot;</span>curl<span class="pl-pds">&quot;</span></span>)</td>
+        <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">testing</span>[,<span class="pl-c1">563</span>] <span class="pl-k">=</span> read.csv(<span class="pl-s"><span class="pl-pds">&quot;</span>UCI HAR Dataset/test/subject_test.txt<span class="pl-pds">&quot;</span></span>, <span class="pl-v">sep</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-pds">&quot;</span></span>, <span class="pl-v">header</span><span class="pl-k">=</span><span class="pl-c1">FALSE</span>)</td>
       </tr>
       <tr>
         <td id="L9" class="blob-num js-line-number" data-line-number="9"></td>
-        <td id="LC9" class="blob-code blob-code-inner js-file-line">}  </td>
+        <td id="LC9" class="blob-code blob-code-inner js-file-line">
+</td>
       </tr>
       <tr>
         <td id="L10" class="blob-num js-line-number" data-line-number="10"></td>
-        <td id="LC10" class="blob-code blob-code-inner js-file-line"><span class="pl-k">if</span> (<span class="pl-k">!</span>file.exists(<span class="pl-s"><span class="pl-pds">&quot;</span>UCI HAR Dataset<span class="pl-pds">&quot;</span></span>)) { </td>
+        <td id="LC10" class="blob-code blob-code-inner js-file-line"><span class="pl-v">activityLabels</span> <span class="pl-k">=</span> read.csv(<span class="pl-s"><span class="pl-pds">&quot;</span>UCI HAR Dataset/activity_labels.txt<span class="pl-pds">&quot;</span></span>, <span class="pl-v">sep</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-pds">&quot;</span></span>, <span class="pl-v">header</span><span class="pl-k">=</span><span class="pl-c1">FALSE</span>)</td>
       </tr>
       <tr>
         <td id="L11" class="blob-num js-line-number" data-line-number="11"></td>
-        <td id="LC11" class="blob-code blob-code-inner js-file-line">  unzip(<span class="pl-smi">filename</span>) </td>
+        <td id="LC11" class="blob-code blob-code-inner js-file-line">
+</td>
       </tr>
       <tr>
         <td id="L12" class="blob-num js-line-number" data-line-number="12"></td>
-        <td id="LC12" class="blob-code blob-code-inner js-file-line">}</td>
+        <td id="LC12" class="blob-code blob-code-inner js-file-line"><span class="pl-c"># Read features and make the feature names better suited for R with some substitutions</span></td>
       </tr>
       <tr>
         <td id="L13" class="blob-num js-line-number" data-line-number="13"></td>
-        <td id="LC13" class="blob-code blob-code-inner js-file-line">
-</td>
+        <td id="LC13" class="blob-code blob-code-inner js-file-line"><span class="pl-v">features</span> <span class="pl-k">=</span> read.csv(<span class="pl-s"><span class="pl-pds">&quot;</span>UCI HAR Dataset/features.txt<span class="pl-pds">&quot;</span></span>, <span class="pl-v">sep</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-pds">&quot;</span></span>, <span class="pl-v">header</span><span class="pl-k">=</span><span class="pl-c1">FALSE</span>)</td>
       </tr>
       <tr>
         <td id="L14" class="blob-num js-line-number" data-line-number="14"></td>
-        <td id="LC14" class="blob-code blob-code-inner js-file-line"><span class="pl-c"># Load activity labels + features</span></td>
+        <td id="LC14" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">features</span>[,<span class="pl-c1">2</span>] <span class="pl-k">=</span> gsub(<span class="pl-s"><span class="pl-pds">&#39;</span>-mean<span class="pl-pds">&#39;</span></span>, <span class="pl-s"><span class="pl-pds">&#39;</span>Mean<span class="pl-pds">&#39;</span></span>, <span class="pl-smi">features</span>[,<span class="pl-c1">2</span>])</td>
       </tr>
       <tr>
         <td id="L15" class="blob-num js-line-number" data-line-number="15"></td>
-        <td id="LC15" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">activityLabels</span> <span class="pl-k">&lt;-</span> read.table(<span class="pl-s"><span class="pl-pds">&quot;</span>UCI HAR Dataset/activity_labels.txt<span class="pl-pds">&quot;</span></span>)</td>
+        <td id="LC15" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">features</span>[,<span class="pl-c1">2</span>] <span class="pl-k">=</span> gsub(<span class="pl-s"><span class="pl-pds">&#39;</span>-std<span class="pl-pds">&#39;</span></span>, <span class="pl-s"><span class="pl-pds">&#39;</span>Std<span class="pl-pds">&#39;</span></span>, <span class="pl-smi">features</span>[,<span class="pl-c1">2</span>])</td>
       </tr>
       <tr>
         <td id="L16" class="blob-num js-line-number" data-line-number="16"></td>
-        <td id="LC16" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">activityLabels</span>[,<span class="pl-c1">2</span>] <span class="pl-k">&lt;-</span> as.character(<span class="pl-smi">activityLabels</span>[,<span class="pl-c1">2</span>])</td>
+        <td id="LC16" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">features</span>[,<span class="pl-c1">2</span>] <span class="pl-k">=</span> gsub(<span class="pl-s"><span class="pl-pds">&#39;</span>[-()]<span class="pl-pds">&#39;</span></span>, <span class="pl-s"><span class="pl-pds">&#39;</span><span class="pl-pds">&#39;</span></span>, <span class="pl-smi">features</span>[,<span class="pl-c1">2</span>])</td>
       </tr>
       <tr>
         <td id="L17" class="blob-num js-line-number" data-line-number="17"></td>
-        <td id="LC17" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">features</span> <span class="pl-k">&lt;-</span> read.table(<span class="pl-s"><span class="pl-pds">&quot;</span>UCI HAR Dataset/features.txt<span class="pl-pds">&quot;</span></span>)</td>
+        <td id="LC17" class="blob-code blob-code-inner js-file-line">
+</td>
       </tr>
       <tr>
         <td id="L18" class="blob-num js-line-number" data-line-number="18"></td>
-        <td id="LC18" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">features</span>[,<span class="pl-c1">2</span>] <span class="pl-k">&lt;-</span> as.character(<span class="pl-smi">features</span>[,<span class="pl-c1">2</span>])</td>
+        <td id="LC18" class="blob-code blob-code-inner js-file-line"><span class="pl-c"># Merge training and test sets together</span></td>
       </tr>
       <tr>
         <td id="L19" class="blob-num js-line-number" data-line-number="19"></td>
-        <td id="LC19" class="blob-code blob-code-inner js-file-line">
-</td>
+        <td id="LC19" class="blob-code blob-code-inner js-file-line"><span class="pl-v">allData</span> <span class="pl-k">=</span> rbind(<span class="pl-smi">training</span>, <span class="pl-smi">testing</span>)</td>
       </tr>
       <tr>
         <td id="L20" class="blob-num js-line-number" data-line-number="20"></td>
-        <td id="LC20" class="blob-code blob-code-inner js-file-line"><span class="pl-c"># Extract only the data on mean and standard deviation</span></td>
+        <td id="LC20" class="blob-code blob-code-inner js-file-line">
+</td>
       </tr>
       <tr>
         <td id="L21" class="blob-num js-line-number" data-line-number="21"></td>
-        <td id="LC21" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">featuresWanted</span> <span class="pl-k">&lt;-</span> grep(<span class="pl-s"><span class="pl-pds">&quot;</span>.*mean.*|.*std.*<span class="pl-pds">&quot;</span></span>, <span class="pl-smi">features</span>[,<span class="pl-c1">2</span>])</td>
+        <td id="LC21" class="blob-code blob-code-inner js-file-line"><span class="pl-c"># Get only the data on mean and std. dev.</span></td>
       </tr>
       <tr>
         <td id="L22" class="blob-num js-line-number" data-line-number="22"></td>
-        <td id="LC22" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">featuresWanted.names</span> <span class="pl-k">&lt;-</span> <span class="pl-smi">features</span>[<span class="pl-smi">featuresWanted</span>,<span class="pl-c1">2</span>]</td>
+        <td id="LC22" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">colsWeWant</span> <span class="pl-k">&lt;-</span> grep(<span class="pl-s"><span class="pl-pds">&quot;</span>.*Mean.*|.*Std.*<span class="pl-pds">&quot;</span></span>, <span class="pl-smi">features</span>[,<span class="pl-c1">2</span>])</td>
       </tr>
       <tr>
         <td id="L23" class="blob-num js-line-number" data-line-number="23"></td>
-        <td id="LC23" class="blob-code blob-code-inner js-file-line"><span class="pl-v">featuresWanted.names</span> <span class="pl-k">=</span> gsub(<span class="pl-s"><span class="pl-pds">&#39;</span>-mean<span class="pl-pds">&#39;</span></span>, <span class="pl-s"><span class="pl-pds">&#39;</span>Mean<span class="pl-pds">&#39;</span></span>, <span class="pl-smi">featuresWanted.names</span>)</td>
+        <td id="LC23" class="blob-code blob-code-inner js-file-line"><span class="pl-c"># First reduce the features table to what we want</span></td>
       </tr>
       <tr>
         <td id="L24" class="blob-num js-line-number" data-line-number="24"></td>
-        <td id="LC24" class="blob-code blob-code-inner js-file-line"><span class="pl-v">featuresWanted.names</span> <span class="pl-k">=</span> gsub(<span class="pl-s"><span class="pl-pds">&#39;</span>-std<span class="pl-pds">&#39;</span></span>, <span class="pl-s"><span class="pl-pds">&#39;</span>Std<span class="pl-pds">&#39;</span></span>, <span class="pl-smi">featuresWanted.names</span>)</td>
+        <td id="LC24" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">features</span> <span class="pl-k">&lt;-</span> <span class="pl-smi">features</span>[<span class="pl-smi">colsWeWant</span>,]</td>
       </tr>
       <tr>
         <td id="L25" class="blob-num js-line-number" data-line-number="25"></td>
-        <td id="LC25" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">featuresWanted.names</span> <span class="pl-k">&lt;-</span> gsub(<span class="pl-s"><span class="pl-pds">&#39;</span>[-()]<span class="pl-pds">&#39;</span></span>, <span class="pl-s"><span class="pl-pds">&#39;</span><span class="pl-pds">&#39;</span></span>, <span class="pl-smi">featuresWanted.names</span>)</td>
+        <td id="LC25" class="blob-code blob-code-inner js-file-line"><span class="pl-c"># Now add the last two columns (subject and activity)</span></td>
       </tr>
       <tr>
         <td id="L26" class="blob-num js-line-number" data-line-number="26"></td>
-        <td id="LC26" class="blob-code blob-code-inner js-file-line">
-</td>
+        <td id="LC26" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">colsWeWant</span> <span class="pl-k">&lt;-</span> c(<span class="pl-smi">colsWeWant</span>, <span class="pl-c1">562</span>, <span class="pl-c1">563</span>)</td>
       </tr>
       <tr>
         <td id="L27" class="blob-num js-line-number" data-line-number="27"></td>
-        <td id="LC27" class="blob-code blob-code-inner js-file-line">
-</td>
+        <td id="LC27" class="blob-code blob-code-inner js-file-line"><span class="pl-c"># And remove the unwanted columns from allData</span></td>
       </tr>
       <tr>
         <td id="L28" class="blob-num js-line-number" data-line-number="28"></td>
-        <td id="LC28" class="blob-code blob-code-inner js-file-line"><span class="pl-c"># Load the datasets</span></td>
+        <td id="LC28" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">allData</span> <span class="pl-k">&lt;-</span> <span class="pl-smi">allData</span>[,<span class="pl-smi">colsWeWant</span>]</td>
       </tr>
       <tr>
         <td id="L29" class="blob-num js-line-number" data-line-number="29"></td>
-        <td id="LC29" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">train</span> <span class="pl-k">&lt;-</span> read.table(<span class="pl-s"><span class="pl-pds">&quot;</span>UCI HAR Dataset/train/X_train.txt<span class="pl-pds">&quot;</span></span>)[<span class="pl-smi">featuresWanted</span>]</td>
+        <td id="LC29" class="blob-code blob-code-inner js-file-line"><span class="pl-c"># Add the column names (features) to allData</span></td>
       </tr>
       <tr>
         <td id="L30" class="blob-num js-line-number" data-line-number="30"></td>
-        <td id="LC30" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">trainActivities</span> <span class="pl-k">&lt;-</span> read.table(<span class="pl-s"><span class="pl-pds">&quot;</span>UCI HAR Dataset/train/Y_train.txt<span class="pl-pds">&quot;</span></span>)</td>
+        <td id="LC30" class="blob-code blob-code-inner js-file-line">colnames(<span class="pl-smi">allData</span>) <span class="pl-k">&lt;-</span> c(<span class="pl-smi">features</span><span class="pl-k">$</span><span class="pl-smi">V2</span>, <span class="pl-s"><span class="pl-pds">&quot;</span>Activity<span class="pl-pds">&quot;</span></span>, <span class="pl-s"><span class="pl-pds">&quot;</span>Subject<span class="pl-pds">&quot;</span></span>)</td>
       </tr>
       <tr>
         <td id="L31" class="blob-num js-line-number" data-line-number="31"></td>
-        <td id="LC31" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">trainSubjects</span> <span class="pl-k">&lt;-</span> read.table(<span class="pl-s"><span class="pl-pds">&quot;</span>UCI HAR Dataset/train/subject_train.txt<span class="pl-pds">&quot;</span></span>)</td>
+        <td id="LC31" class="blob-code blob-code-inner js-file-line">colnames(<span class="pl-smi">allData</span>) <span class="pl-k">&lt;-</span> tolower(colnames(<span class="pl-smi">allData</span>))</td>
       </tr>
       <tr>
         <td id="L32" class="blob-num js-line-number" data-line-number="32"></td>
-        <td id="LC32" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">train</span> <span class="pl-k">&lt;-</span> cbind(<span class="pl-smi">trainSubjects</span>, <span class="pl-smi">trainActivities</span>, <span class="pl-smi">train</span>)</td>
-      </tr>
-      <tr>
-        <td id="L33" class="blob-num js-line-number" data-line-number="33"></td>
-        <td id="LC33" class="blob-code blob-code-inner js-file-line">
+        <td id="LC32" class="blob-code blob-code-inner js-file-line">
 </td>
       </tr>
       <tr>
+        <td id="L33" class="blob-num js-line-number" data-line-number="33"></td>
+        <td id="LC33" class="blob-code blob-code-inner js-file-line"><span class="pl-v">currentActivity</span> <span class="pl-k">=</span> <span class="pl-c1">1</span></td>
+      </tr>
+      <tr>
         <td id="L34" class="blob-num js-line-number" data-line-number="34"></td>
-        <td id="LC34" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">test</span> <span class="pl-k">&lt;-</span> read.table(<span class="pl-s"><span class="pl-pds">&quot;</span>UCI HAR Dataset/test/X_test.txt<span class="pl-pds">&quot;</span></span>)[<span class="pl-smi">featuresWanted</span>]</td>
+        <td id="LC34" class="blob-code blob-code-inner js-file-line"><span class="pl-k">for</span> (<span class="pl-smi">currentActivityLabel</span> <span class="pl-k">in</span> <span class="pl-smi">activityLabels</span><span class="pl-k">$</span><span class="pl-smi">V2</span>) {</td>
       </tr>
       <tr>
         <td id="L35" class="blob-num js-line-number" data-line-number="35"></td>
-        <td id="LC35" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">testActivities</span> <span class="pl-k">&lt;-</span> read.table(<span class="pl-s"><span class="pl-pds">&quot;</span>UCI HAR Dataset/test/Y_test.txt<span class="pl-pds">&quot;</span></span>)</td>
+        <td id="LC35" class="blob-code blob-code-inner js-file-line">  <span class="pl-smi">allData</span><span class="pl-k">$</span><span class="pl-smi">activity</span> <span class="pl-k">&lt;-</span> gsub(<span class="pl-smi">currentActivity</span>, <span class="pl-smi">currentActivityLabel</span>, <span class="pl-smi">allData</span><span class="pl-k">$</span><span class="pl-smi">activity</span>)</td>
       </tr>
       <tr>
         <td id="L36" class="blob-num js-line-number" data-line-number="36"></td>
-        <td id="LC36" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">testSubjects</span> <span class="pl-k">&lt;-</span> read.table(<span class="pl-s"><span class="pl-pds">&quot;</span>UCI HAR Dataset/test/subject_test.txt<span class="pl-pds">&quot;</span></span>)</td>
+        <td id="LC36" class="blob-code blob-code-inner js-file-line">  <span class="pl-smi">currentActivity</span> <span class="pl-k">&lt;-</span> <span class="pl-smi">currentActivity</span> <span class="pl-k">+</span> <span class="pl-c1">1</span></td>
       </tr>
       <tr>
         <td id="L37" class="blob-num js-line-number" data-line-number="37"></td>
-        <td id="LC37" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">test</span> <span class="pl-k">&lt;-</span> cbind(<span class="pl-smi">testSubjects</span>, <span class="pl-smi">testActivities</span>, <span class="pl-smi">test</span>)</td>
+        <td id="LC37" class="blob-code blob-code-inner js-file-line">}</td>
       </tr>
       <tr>
         <td id="L38" class="blob-num js-line-number" data-line-number="38"></td>
@@ -614,54 +613,36 @@
       </tr>
       <tr>
         <td id="L39" class="blob-num js-line-number" data-line-number="39"></td>
-        <td id="LC39" class="blob-code blob-code-inner js-file-line"><span class="pl-c"># merge datasets and add labels</span></td>
+        <td id="LC39" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">allData</span><span class="pl-k">$</span><span class="pl-smi">activity</span> <span class="pl-k">&lt;-</span> as.factor(<span class="pl-smi">allData</span><span class="pl-k">$</span><span class="pl-smi">activity</span>)</td>
       </tr>
       <tr>
         <td id="L40" class="blob-num js-line-number" data-line-number="40"></td>
-        <td id="LC40" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">allData</span> <span class="pl-k">&lt;-</span> rbind(<span class="pl-smi">train</span>, <span class="pl-smi">test</span>)</td>
+        <td id="LC40" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">allData</span><span class="pl-k">$</span><span class="pl-smi">subject</span> <span class="pl-k">&lt;-</span> as.factor(<span class="pl-smi">allData</span><span class="pl-k">$</span><span class="pl-smi">subject</span>)</td>
       </tr>
       <tr>
         <td id="L41" class="blob-num js-line-number" data-line-number="41"></td>
-        <td id="LC41" class="blob-code blob-code-inner js-file-line">colnames(<span class="pl-smi">allData</span>) <span class="pl-k">&lt;-</span> c(<span class="pl-s"><span class="pl-pds">&quot;</span>subject<span class="pl-pds">&quot;</span></span>, <span class="pl-s"><span class="pl-pds">&quot;</span>activity<span class="pl-pds">&quot;</span></span>, <span class="pl-smi">featuresWanted.names</span>)</td>
+        <td id="LC41" class="blob-code blob-code-inner js-file-line">
+</td>
       </tr>
       <tr>
         <td id="L42" class="blob-num js-line-number" data-line-number="42"></td>
-        <td id="LC42" class="blob-code blob-code-inner js-file-line">
-</td>
+        <td id="LC42" class="blob-code blob-code-inner js-file-line"><span class="pl-v">tidy</span> <span class="pl-k">=</span> aggregate(<span class="pl-smi">allData</span>, <span class="pl-v">by</span><span class="pl-k">=</span><span class="pl-k">list</span>(<span class="pl-v">activity</span> <span class="pl-k">=</span> <span class="pl-smi">allData</span><span class="pl-k">$</span><span class="pl-smi">activity</span>, <span class="pl-v">subject</span><span class="pl-k">=</span><span class="pl-smi">allData</span><span class="pl-k">$</span><span class="pl-smi">subject</span>), <span class="pl-smi">mean</span>)</td>
       </tr>
       <tr>
         <td id="L43" class="blob-num js-line-number" data-line-number="43"></td>
-        <td id="LC43" class="blob-code blob-code-inner js-file-line"><span class="pl-c"># turn activities &amp; subjects into factors</span></td>
+        <td id="LC43" class="blob-code blob-code-inner js-file-line"><span class="pl-c"># Remove the subject and activity column, since a mean of those has no use</span></td>
       </tr>
       <tr>
         <td id="L44" class="blob-num js-line-number" data-line-number="44"></td>
-        <td id="LC44" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">allData</span><span class="pl-k">$</span><span class="pl-smi">activity</span> <span class="pl-k">&lt;-</span> <span class="pl-k">factor</span>(<span class="pl-smi">allData</span><span class="pl-k">$</span><span class="pl-smi">activity</span>, <span class="pl-v">levels</span> <span class="pl-k">=</span> <span class="pl-smi">activityLabels</span>[,<span class="pl-c1">1</span>], <span class="pl-v">labels</span> <span class="pl-k">=</span> <span class="pl-smi">activityLabels</span>[,<span class="pl-c1">2</span>])</td>
+        <td id="LC44" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">tidy</span>[,<span class="pl-c1">90</span>] <span class="pl-k">=</span> <span class="pl-c1">NULL</span></td>
       </tr>
       <tr>
         <td id="L45" class="blob-num js-line-number" data-line-number="45"></td>
-        <td id="LC45" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">allData</span><span class="pl-k">$</span><span class="pl-smi">subject</span> <span class="pl-k">&lt;-</span> as.factor(<span class="pl-smi">allData</span><span class="pl-k">$</span><span class="pl-smi">subject</span>)</td>
+        <td id="LC45" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">tidy</span>[,<span class="pl-c1">89</span>] <span class="pl-k">=</span> <span class="pl-c1">NULL</span></td>
       </tr>
       <tr>
         <td id="L46" class="blob-num js-line-number" data-line-number="46"></td>
-        <td id="LC46" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L47" class="blob-num js-line-number" data-line-number="47"></td>
-        <td id="LC47" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">allData.melted</span> <span class="pl-k">&lt;-</span> melt(<span class="pl-smi">allData</span>, <span class="pl-v">id</span> <span class="pl-k">=</span> c(<span class="pl-s"><span class="pl-pds">&quot;</span>subject<span class="pl-pds">&quot;</span></span>, <span class="pl-s"><span class="pl-pds">&quot;</span>activity<span class="pl-pds">&quot;</span></span>))</td>
-      </tr>
-      <tr>
-        <td id="L48" class="blob-num js-line-number" data-line-number="48"></td>
-        <td id="LC48" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">allData.mean</span> <span class="pl-k">&lt;-</span> dcast(<span class="pl-smi">allData.melted</span>, <span class="pl-smi">subject</span> <span class="pl-k">+</span> <span class="pl-smi">activity</span> <span class="pl-k">~</span> <span class="pl-smi">variable</span>, <span class="pl-smi">mean</span>)</td>
-      </tr>
-      <tr>
-        <td id="L49" class="blob-num js-line-number" data-line-number="49"></td>
-        <td id="LC49" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L50" class="blob-num js-line-number" data-line-number="50"></td>
-        <td id="LC50" class="blob-code blob-code-inner js-file-line">write.table(<span class="pl-smi">allData.mean</span>, <span class="pl-s"><span class="pl-pds">&quot;</span>tidy.txt<span class="pl-pds">&quot;</span></span>, <span class="pl-v">row.names</span> <span class="pl-k">=</span> <span class="pl-c1">FALSE</span>, <span class="pl-v">quote</span> <span class="pl-k">=</span> <span class="pl-c1">FALSE</span>)</td>
+        <td id="LC46" class="blob-code blob-code-inner js-file-line">write.table(<span class="pl-smi">tidy</span>, <span class="pl-s"><span class="pl-pds">&quot;</span>tidy.txt<span class="pl-pds">&quot;</span></span>, <span class="pl-v">sep</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-cce">\t</span><span class="pl-pds">&quot;</span></span>)</td>
       </tr>
 </table>
 
@@ -703,7 +684,7 @@
       <span class="mega-octicon octicon-mark-github" title="GitHub"></span>
 </a>
     <ul class="site-footer-links">
-      <li>&copy; 2015 <span title="0.04157s from github-fe119-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
+      <li>&copy; 2015 <span title="0.04874s from github-fe138-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
         <li><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
         <li><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
         <li><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
